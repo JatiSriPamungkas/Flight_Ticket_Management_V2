@@ -194,7 +194,7 @@ namespace Flight_Ticket_Management_V2
             else dashboard.femalePicture();
         }
 
-        private void isFormNotLocked(bool lockedForm)
+        public void isFormNotLocked(bool lockedForm)
         {
             txtIdentityNumber.Enabled = lockedForm;
             txtFirstName.Enabled = lockedForm;

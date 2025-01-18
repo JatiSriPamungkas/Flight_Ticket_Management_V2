@@ -31,6 +31,7 @@ namespace Flight_Ticket_Management_V2
             dashboard.changedButtonColor("register");
             dashboard.schedule.ShowAll();
             dashboard.nullPicture();
+            dashboard.register.isFormNotLocked(true);
             dashboard.showUserControls(dashboard.userControl[0]);
         }
     }

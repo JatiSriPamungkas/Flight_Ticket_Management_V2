@@ -46,13 +46,13 @@ namespace Flight_Ticket_Management_V2
             string password = txtPassword.Text;
             try
             {
-                if (name == "" && password == "")
+                if (name == "jati" && password == "12345")
                 {
                     ResetForm();
                     dashboard.Show();
                     this.Hide();
                 }
-                /*else if (name == "" && password == "")
+                else if (name == "" && password == "")
                 {
                     ResetForm();
                     MessageBox.Show("Mohon isi kolom Username dan Password !!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -61,7 +61,7 @@ namespace Flight_Ticket_Management_V2
                 {
                     ResetForm();
                     MessageBox.Show("Username atau Password Salah !!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }*/
+                }
             }
             catch (Exception ex)
             {
