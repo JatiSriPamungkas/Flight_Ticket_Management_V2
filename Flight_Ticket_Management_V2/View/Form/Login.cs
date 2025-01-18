@@ -55,12 +55,12 @@ namespace Flight_Ticket_Management_V2
                 else if (name == "" && password == "")
                 {
                     ResetForm();
-                    MessageBox.Show("Mohon isi kolom Username dan Password !!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Please Fill Username and Password Column !!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
                 else
                 {
                     ResetForm();
-                    MessageBox.Show("Username atau Password Salah !!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Wrong Username or Password !!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             catch (Exception ex)

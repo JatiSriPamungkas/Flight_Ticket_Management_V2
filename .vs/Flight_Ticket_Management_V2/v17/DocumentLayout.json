@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|d:\\college (smt 3)\\pemrograman lanjut\\uas\\flight_ticket_management_v2\\flight_ticket_management_v2\\view\\form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|solutionrelative:flight_ticket_management_v2\\view\\form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|d:\\college (smt 3)\\pemrograman lanjut\\uas\\flight_ticket_management_v2\\flight_ticket_management_v2\\view\\usercontrol\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|solutionrelative:flight_ticket_management_v2\\view\\usercontrol\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|d:\\college (smt 3)\\pemrograman lanjut\\uas\\flight_ticket_management_v2\\flight_ticket_management_v2\\view\\form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|solutionrelative:flight_ticket_management_v2\\view\\form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|d:\\college (smt 3)\\pemrograman lanjut\\uas\\flight_ticket_management_v2\\flight_ticket_management_v2\\view\\usercontrol\\ticketnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|solutionrelative:flight_ticket_management_v2\\view\\usercontrol\\ticketnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|d:\\college (smt 3)\\pemrograman lanjut\\uas\\flight_ticket_management_v2\\flight_ticket_management_v2\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A0DD9C-762B-4576-B245-EA21B1CC3BBB}|Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2.csproj|solutionrelative:flight_ticket_management_v2\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 556,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,54 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cs",
-              "DocumentMoniker": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\View\\UserControl\\Register.cs",
-              "RelativeDocumentMoniker": "Flight_Ticket_Management_V2\\View\\UserControl\\Register.cs",
-              "ToolTip": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\View\\UserControl\\Register.cs",
-              "RelativeToolTip": "Flight_Ticket_Management_V2\\View\\UserControl\\Register.cs",
-              "ViewState": "AQIAAKkAAAAAAAAAAAAWwLoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:51:33.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\View\\Form\\Dashboard.cs",
-              "RelativeDocumentMoniker": "Flight_Ticket_Management_V2\\View\\Form\\Dashboard.cs",
-              "ToolTip": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\View\\Form\\Dashboard.cs",
-              "RelativeToolTip": "Flight_Ticket_Management_V2\\View\\Form\\Dashboard.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:51:01.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicketNotification.cs",
-              "DocumentMoniker": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\View\\UserControl\\TicketNotification.cs",
-              "RelativeDocumentMoniker": "Flight_Ticket_Management_V2\\View\\UserControl\\TicketNotification.cs",
-              "ToolTip": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\View\\UserControl\\TicketNotification.cs",
-              "RelativeToolTip": "Flight_Ticket_Management_V2\\View\\UserControl\\TicketNotification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:49:35.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\View\\Form\\Login.cs",
-              "RelativeDocumentMoniker": "Flight_Ticket_Management_V2\\View\\Form\\Login.cs",
-              "ToolTip": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\View\\Form\\Login.cs",
-              "RelativeToolTip": "Flight_Ticket_Management_V2\\View\\Form\\Login.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAcwDAAAAA4AAAA",
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\Model\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "Flight_Ticket_Management_V2\\Model\\Context\\DbContext.cs",
+              "ToolTip": "D:\\College (SMT 3)\\Pemrograman Lanjut\\UAS\\Flight_Ticket_Management_V2\\Flight_Ticket_Management_V2\\Model\\Context\\DbContext.cs",
+              "RelativeToolTip": "Flight_Ticket_Management_V2\\Model\\Context\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:49:15.707Z",
+              "WhenOpened": "2025-01-18T04:49:38.343Z",
               "EditorCaption": ""
             }
           ]

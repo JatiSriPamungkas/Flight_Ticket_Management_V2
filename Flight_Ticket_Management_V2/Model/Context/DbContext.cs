@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SQLite;
 using System.Windows.Forms;
+using System.IO;
 
 namespace Flight_Ticket_Management.Model.Context
 {
@@ -23,8 +24,9 @@ namespace Flight_Ticket_Management.Model.Context
 
             try
             {
-                string dbName = @"D:\College (SMT 3)\Pemrograman Lanjut\UAS\Flight_Ticket_Management_V2\Database\DbFlightManagementTicket.db";
-                string connectionString = string.Format($"Data Source={dbName}; FailIfMissing=True");
+                string relativePath = @"Database\DbFlightManagementTicket.db";
+                string fullPath = Path.Combine(Application.StartupPath, relativePath); // Menggabungkan dengan path aplikasi
+                string connectionString = string.Format($"Data Source={fullPath}; Version=3; FailIfMissing=True");
                 conn = new SQLiteConnection(connectionString);
                 conn.Open();
             }
